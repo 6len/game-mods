@@ -1,4 +1,4 @@
-Allows for infinite chest opening
+#### Allows for infinite chest opening
 
 Download/Clone the dll file and replace the dll file in your steamapps/common/Monster Sanctuary/Monster Sanctuary_Data/Managed with this one.
 
