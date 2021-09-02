@@ -1,7 +1,7 @@
 # game-mods
 A small repository of all game mods I have created
 
-## Risk of Rain 2 Mods
+## Risk of Rain 2
 
 Includes 3 items which allow players to apply plague and poison while not playing Acrid and fire MORE daggers 
 
